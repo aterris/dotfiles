@@ -93,3 +93,6 @@ inspired from Ryan's original project.
 * powerline finishing (and atleast at font submodule or something for easy install)
 * fix path issue
 * set to zsh (how do I have some docs that show manual steps maybe)
+* fonts and colors (what is still not automatic - mostly setting up iterm)
+* sublime config
+
