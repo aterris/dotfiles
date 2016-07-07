@@ -85,3 +85,11 @@ weight of my changes and tweaks inspired me to finally roll my own. But Ryan's
 dotfiles were an easy way to get into bash customization, and then to jump ship
 to zsh a bit later. A decent amount of the code in these dotfiles stem or are
 inspired from Ryan's original project.
+
+# My Notes
+* brewfile is still work in progress
+* overall havent removed everything i dont want
+* need to add my git and standard aliases
+* powerline finishing (and atleast at font submodule or something for easy install)
+* fix path issue
+* set to zsh (how do I have some docs that show manual steps maybe)

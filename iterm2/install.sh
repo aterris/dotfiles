@@ -1,0 +1,1 @@
+open $ZSH/iterm2/solarized-dark.itermcolors
