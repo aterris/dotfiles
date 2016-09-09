@@ -1,6 +1,6 @@
-fpath=($ZSH/functions $fpath)
+fpath=($ZSHDOT/functions $fpath)
 
-autoload -U $ZSH/functions/*(:t)
+autoload -U $ZSHDOT/functions/*(:t)
 
 HISTFILE=~/.zsh_history
 HISTSIZE=10000
