@@ -1,0 +1,1 @@
+source $ZSHDOT/k/k

@@ -1,10 +1,10 @@
-# grc overides for ls
-#   Made possible through contributions from generous benefactors like
-#   `brew install coreutils`
-if $(gls &>/dev/null)
+
+# ls is too long
+alias l="ls -lAh"
+alias ll="ls -l"
+
+# Use k instead of ls when installed
+if $(k &>/dev/null)
 then
-  alias ls="gls -F --color"
-  alias l="gls -lAh --color"
-  alias ll="gls -l --color"
-  alias la='gls -A --color'
+  alias l="k -Ah --no-vcs"
 fi
