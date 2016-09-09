@@ -1,5 +1,3 @@
-# dotfiles
-
 ## get started
 
 1. install xcode
@@ -33,19 +31,11 @@ Everything is configured and tweaked within `~/.dotfiles`.
 dot
 ````
 
-
-
 ## how it works
 
-- bin/: Files will get added to your `$PATH`.
 - Brewfile: Applications to install via Brew and Cask.
+- bin/: Files will get added to your `$PATH`.
 - topic/*.zsh: Files will loaded into your environment.
+- topic/*.symlink: Files ending in `*.symlink` get symlinked into your `$HOME` when you run `script/bootstrap`.
 - topic/path.zsh: Files named `path.zsh` is loaded first and is expected to setup `$PATH` or similar.
 - topic/completion.zsh: Files named `completion.zsh` are loaded last and is expected to setup autocomplete.
-- topic/*.symlink: Files ending in `*.symlink` get symlinked into your `$HOME` when you run `script/bootstrap`.
-
-
-
-
-
-
