@@ -1,3 +1,0 @@
-[submodule "prompt/powerlevel9k"]
-	path = prompt/powerlevel9k
-	url = https://github.com/bhilburn/powerlevel9k.git
