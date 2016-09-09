@@ -24,6 +24,7 @@ Everything is configured and tweaked within `~/.dotfiles`.
 6. hack together oh_my_zsh (make this automatic, include needed hack)
 7. setup iterm config (full screen in old mode, select colors, set toggle key, set font)
 8. xcode plugins
+9. [Replace Spotlight with Alfred](https://www.alfredapp.com/help/troubleshooting/cmd-space/)
 
 ## update
 
