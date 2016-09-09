@@ -21,22 +21,18 @@ This will symlink the appropriate files in `.dotfiles` to your home directory.
 Everything is configured and tweaked within `~/.dotfiles`.
 
 
+4. add git and standard aliases (automatic, but I lost these)
+5. setup Sublime config (make this automatic)
+6. hack together oh_my_zsh (make this automatic, include needed hack)
+7. setup iterm config (full screen in old mode, select colors, set toggle key, set font)
+8. xcode plugins
+
 ## update
 
 ````
 dot
 ````
 
-
-## my notes
-* need to add my git and standard aliases
-* oh my zsh
-* fix path issue
-* set to zsh (how do I have some docs that show manual steps maybe)
-* fonts and colors (what is still not automatic - mostly setting up iterm)
-* sublime config
-* iterm config - probably always manual
-* xcode plugins
 
 
 ## how it works
