@@ -10,6 +10,7 @@ brew 'node'
 brew 'ruby-build'
 brew 'rbenv'
 brew 'wget'
+brew 'tmux'
 
 cask '1password'
 cask 'firefox'
