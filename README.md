@@ -26,7 +26,9 @@ Everything is configured and tweaked within `~/.dotfiles`.
 8. xcode plugins
 9. [replace spotlight with alfred](https://www.alfredapp.com/help/troubleshooting/cmd-space/)
 10. add 1password license
+12. Install App Store Apps
 11. calendar and todo list setup?
+
 
 ## update
 
